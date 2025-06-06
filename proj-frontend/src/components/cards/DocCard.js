@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { injectIntl } from "react-intl";
 import { Row, Card, CardBody, Col, Input, CardText, Button } from "reactstrap";
 
+
 import { slots } from "../../data/slots";
 import { speciality_data } from "../../data/specality";
 import { NotificationManager } from "../common/react-notifications";
