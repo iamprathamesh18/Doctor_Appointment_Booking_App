@@ -84,6 +84,8 @@ class StateButton extends React.Component {
           <span className="icon fail">
             <i className="simple-icon-exclamation" />
           </span>
+
+            
           <span className="label">{this.props.children}</span>
         </Button>
       </span>
